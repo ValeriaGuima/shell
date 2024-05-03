@@ -34,9 +34,7 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 
 **What is the secret password?**
 ```
-PAPER RINGS 2 MEETS LEGACIES LUCKY STARS
-or
-PR2MLLS
+Your answer here...
 
 
 
